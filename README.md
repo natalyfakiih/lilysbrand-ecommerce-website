@@ -43,4 +43,4 @@ Type npm install then npm run dev.
 
 ```bash
 git clone https://github.com/natalyfakiih/lilysbrand-ecommerce-website.git
-cd lilysbrand
+cd lilysbrand-ecommerce-website
