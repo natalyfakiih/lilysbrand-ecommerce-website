@@ -29,7 +29,7 @@ const SearchBar = () => {
             <ul className="search-results">
               {filteredProducts.length > 0 ? (
                 filteredProducts.map((product) => (
-                  <li key={product.id} className="search-result-item">
+                  <li key={product._id} className="search-result-item">
                     <img
                       src={product.image}
                       alt={product.name}
